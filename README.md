@@ -5,6 +5,6 @@ Thanks Deeplizard and Morvan Zhou for their help in leading the way to deep lear
 ## Annotation4Deeplizard
 In this folder, 10 python codes are contained, consisting of the way of build a deep learning model from scratch.
 
-**FirstNetwork
+*FirstNetwork: the 
 
 ## Annotation4Morvan
