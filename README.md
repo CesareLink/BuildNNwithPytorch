@@ -7,3 +7,8 @@ In this folder, 10 python codes are contained, consisting of the way of build a 
 
 ## Annotation4Morvan
 This is the folder contains the code rewrited for Morvan's Pytorch tutorial, with the most detailed annotation in each text.
+
+## GNN
+This is a detailed verson of GCN network construction.
+
+##
